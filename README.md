@@ -1,6 +1,6 @@
 ## Pydowner: A Multithreaded Terminal Downloader
 
-A simple terminal program writen in Python for downloading files with support for multi-threaded downloading.
+Pydowner is a simple terminal program writen in Python for downloading files with support for multi-threaded downloading.
 
 ### Dependencies 
 The script requires on these python packages to run:
