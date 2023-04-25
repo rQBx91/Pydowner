@@ -8,6 +8,8 @@ A simple terminal program writen in Python for downloading files with support fo
 * requests
 * tqdm
 
+## Run
+
 Install the requirements:
 
 ```bash
